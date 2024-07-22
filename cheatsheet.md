@@ -1,5 +1,6 @@
 # Git Command Cheat Sheet
 
+
 ##### Cloning your remote directory
 		git clone <remote directory>
 
@@ -23,3 +24,5 @@
 
 ##### Creates a branch, and moves you onto it AT THE SAME TIME
 		git checkout -b <new branch name>
+
+
